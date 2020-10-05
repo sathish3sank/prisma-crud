@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20201004081456-sample-migration
+20201004081700-changed-table-name
+20201005044537-changed-userid-as-unique
